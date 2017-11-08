@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2017-10-27 10:45:05
+ * @version $Id$
+ */
+
+.form-container{
+	width: 300px;
+	margin: 0 auto;
+}
+
