@@ -16,5 +16,5 @@ SECRET_KEY = os.urandom(24)
 # pymysql.install_as_MySQLdb()
 
 
-SQLALCHEMY_DATABASE_URI='mysql://root:@localhost:3306/db_shizhan' 
+SQLALCHEMY_DATABASE_URI='mysql://root:liuchang@localhost:3306/db_shizhan' 
 SQLALCHEMY_TRACK_MODIFICATIONS=False 
